@@ -1,4 +1,4 @@
-# Mini Login Practice Page
+# Mini Sign up Practice Page
 
 This project serves as a practice exercise for building a login functionality using vanilla JavaScript, classes, and other web technologies. It provides a simple login and sign-in interface where users can create an account or log in with their existing credentials.
 
